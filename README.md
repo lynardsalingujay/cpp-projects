@@ -1,9 +1,9 @@
 # <p align="center"> Hello World! </p>
 
-### [Programs](/src)
+### [List of Program](/src)
 
-| # | Programs | Explanation |
+| # | Program name | Description |
 |:---:|:---|:---:|
-| 1 | [HelloWorld](./src/HelloWorld.cpp)  
+| 1 | [HelloWorld.cpp](./src/HelloWorld.cpp)  
 <br>
 <br>

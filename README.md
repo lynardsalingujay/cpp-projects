@@ -1,6 +1,6 @@
 # <p align="center"> Hello World! </p>
 
-### [List of Program](/src)
+### [Projects](/src)
 
 | # | Program name | Description |
 |:---:|:---|:---|
